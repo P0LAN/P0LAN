@@ -1,5 +1,5 @@
 # 💫 About Us:
-We're currently working on polan<br>Our team has knowledge in:<br>C#, flutter , java , kotlin , dart.<br>We love making FOSS apps 
+We're currently working on polan<br>We love making FOSS apps 
 
 
 # 💻 Tech Stack:
